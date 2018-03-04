@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 心流管理（上）：劝你少做时间管理
+title: 心流管理（一）：劝你少做时间管理
 category: 生活
 keywords: 生活,有限理性
 ---
